@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi I'm sixuzhu，a graduate student in the Department of Mathematics who loves data science. I am currently working hard to improve my technical skills.
 
+- I'm currently learning [UCB cs61a](https://cs61a.org/) and [UCB data100](https://ds100.org/)
+- And I'm trying to find a better way to combine fuzzy integrals with machine learning. If you're into fuzzy mathematics, feel free to reach out. Let's learn together!
 <!--
 **zusixu/zusixu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
